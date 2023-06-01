@@ -45,12 +45,12 @@ Entity Extractor Python Module for basic Natural Language Computing Tasks
         print("No URLs found")
   </code></pre>
   <p>Output:</p>
-  <code>
+  <b>
   Date: 15/01/2023
   Time: 2:30 PM
   URLs:
   https://example.com
-  </code>
+  </b>
   <p>
     Note: The above example assumes that you have already imported the necessary modules and instantiated the <code>EntityExtractor</code> class.
   </p>
