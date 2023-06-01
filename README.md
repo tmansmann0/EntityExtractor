@@ -1,7 +1,6 @@
 # EntityExtractor
 Entity Extractor Python Module for basic Natural Language Computing Tasks
 
-<details>
   <p>
     This is a simple Python class, <code>EntityExtractor</code>, that provides methods to extract and convert entities from text. It currently supports extracting and converting dates, times, and URLs.
   </p>
