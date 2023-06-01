@@ -1,7 +1,6 @@
 # EntityExtractor
 Entity Extractor Python Module for basic Natural Language Computing Tasks
 
-<!-- Entity Extractor -->
 <details>
   <summary><strong>Entity Extractor</strong></summary>
   <p>
