@@ -48,8 +48,7 @@ Entity Extractor Python Module for basic Natural Language Computing Tasks
   <pre><code>
   Date: 15/01/2023
   Time: 2:30 PM
-  URLs:
-  https://example.com
+  URLs: https://example.com
   </code></pre>
   <p>
     Note: The above example assumes that you have already imported the necessary modules and instantiated the <code>EntityExtractor</code> class.
